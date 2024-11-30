@@ -3,5 +3,8 @@
 export function Registration()
 {
 
-    return (<></>)
+    return (
+    <>
+    </>
+    )
 }
